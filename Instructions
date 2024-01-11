@@ -1,0 +1,7 @@
+Create a github account and fork this repo.
+Create a cyclic account on cyclic.sh with your github account you created.
+Press Link Your Own.
+Press Search your repositories and select the repo you just forked.
+Press Connect Cyclic.
+When it shows a link in the console, go to it in a new tab.
+Even though its slow, it works. One thing you can try to do to make it fast is switch your DNS servers in your network settings to a fast one like Google's ones.
